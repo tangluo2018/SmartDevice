@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/control/HttpControl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/main/CameraPlayActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/main/LoginActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/main/RegisterActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/main/SenerioFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/main/room/AddRoomActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/mode/BaseDeviceType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/mode/CreatedLinkDeviceAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/mode/DeviceAttrType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/mode/DeviceAttribute.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/mode/DeviceType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/mode/HttpError.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/mode/MessageAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/mode/RoomBindDevice.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/service/PushCallback.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/utils/CustUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/utils/DensityUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/utils/ParamsUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/smartdevice/utils/SwitchView.java" charset="UTF-8" />
+  </component>
+</project>
