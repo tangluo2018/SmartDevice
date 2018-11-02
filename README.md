@@ -10,3 +10,5 @@ It is a Android Studio project, you can compile and install in Android Studio di
 ![screenshot2](screenshot/Screenshot_20181102-172212.png)
 ![screenshot3](screenshot/Screenshot_20181102-172234.png)
 ![screenshot4](screenshot/Screenshot_20181102-172310.png)
+
+<img src="screenshot/Screenshot_20181102-172153.png" width="240" height="426">
