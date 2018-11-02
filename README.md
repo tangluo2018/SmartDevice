@@ -1,9 +1,9 @@
 
-##About SmartDevice
+## About SmartDevice
 A Android app demo for smart home devices 
 
-##Compile & Install
-It is a Android Studio project, you can comple and install in Android Studio directly
+## Compile & Install
+It is a Android Studio project, you can compile and install in Android Studio directly
 
 ##Screenshot
 ![screenshot1](screenshot/Screenshot_20181102-172153.png)
